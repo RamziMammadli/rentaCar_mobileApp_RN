@@ -1,0 +1,92 @@
+[
+  {
+    "company": "RM Cars",
+    "createdAt": "2023-11-25T13:24:00.077Z",
+    "cars": [
+      {
+        "brand": "Kia",
+        "model": "Sportage",
+        "price": "145",
+        "image": "https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/Sportage-NQ5-22My/Features/360vr/Glacial-white-pearl-SWP/62.png",
+        "year": "2023",
+        "id": "2sdsa65vxbdvbfdd4sad "
+      },
+      {
+        "brand": "Hundai",
+        "model": "Tucson",
+        "price": "135",
+        "image": "https://s7d1.scene7.com/is/image/hyundai/2024-tucson-sel-portofino-gray-vehicle-browse-hero:Browse?fmt=webp-alpha",
+        "year": "2022",
+        "id": "11231bfdgdfs32154"
+      },
+      {
+        "brand": "Mercedes Benz",
+        "model": "350",
+        "price": "450",
+        "image": "https://www.autonocion.com/wp-content/uploads/2018/05/Mercedes-Benz-CLS-por-BRABUS-1.jpg",
+        "year": "2023",
+        "id": "11231bfdgdfs32154"
+      },
+      {
+        "brand": "Kia",
+        "model": "K5",
+        "price": "135",
+        "image": "https://static1.cafeauto.vn/cafeauto/hinh-anh/2021/12/14/163/bang-gia-xe-kia-k5-8.png",
+        "year": "2021",
+        "id": "11231bfdgdfs32154"
+      },
+      {
+        "brand": "BMW",
+        "model": "X6",
+        "price": "135",
+        "image": "https://www.motortrend.com/uploads/sites/5/2020/06/2020-bmw-x6.png",
+        "year": "2020",
+        "id": "11231bfdgdfs32154"
+      }
+    ]
+  },
+  {
+    "company": "Dubai Cars",
+    "createdAt": "2023-11-25T11:40:00.763Z",
+    "cars": [
+      {
+        "brand": "Kia",
+        "model": "Sportage",
+        "price": "145",
+        "image": "https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/Sportage-NQ5-22My/Features/360vr/Glacial-white-pearl-SWP/62.png",
+        "year": "2023",
+        "id": "2sdsa65acxzcad4sad "
+      },
+      {
+        "brand": "Hundai",
+        "model": "Tucson",
+        "price": "135",
+        "image": "https://s7d1.scene7.com/is/image/hyundai/2024-tucson-sel-portofino-gray-vehicle-browse-hero:Browse?fmt=webp-alpha",
+        "year": "2022",
+        "id": "1123132xbxvcv154"
+      }
+    ]
+  },
+  {
+    "company": "MM Cars",
+    "createdAt": "2023-11-24T21:23:04.525Z",
+    "cars": [
+      {
+        "brand": "Kia",
+        "model": "Sportage",
+        "price": "145",
+        "image": "https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/Sportage-NQ5-22My/Features/360vr/Glacial-white-pearl-SWP/62.png",
+        "year": "2023",
+        "id": "2sdsa65d4sfdsfsad "
+      },
+      {
+        "brand": "Hundai",
+        "model": "Tucson",
+        "price": "135",
+        "image": "https://s7d1.scene7.com/is/image/hyundai/2024-tucson-sel-portofino-gray-vehicle-browse-hero:Browse?fmt=webp-alpha",
+        "year": "2022",
+        "id": "1123vcxvxc132154"
+      }
+    ]
+  }
+]
